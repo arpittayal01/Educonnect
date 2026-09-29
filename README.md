@@ -25,7 +25,7 @@ Live = https://educonnect-f.onrender.com/
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/Alokraj76/75ways.git
+git clone https://github.com/arpittayal01/Educonnect.git
 cd 75ways
 ```
 
