@@ -1,5 +1,3 @@
-# 75ways
-
 A full-stack web application built using **React, Node.js, Express.js, and MongoDB**.
 
 
@@ -15,7 +13,6 @@ Live = https://educonnect-f.onrender.com/
 ## Project Structure
 
 ```text
-75ways/
 ├── frontend/
 └── backend/
 ```
